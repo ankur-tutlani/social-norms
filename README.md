@@ -15,5 +15,6 @@ The next section provides a brief explanation of all the code files available in
 
 
 # References
+Not all parameters in the provided Python functions require configuration. Redundant parameters can be assigned arbitrary values. For a detailed breakdown of the parameters, refer to the resources listed below.
 1. https://github.com/ankur-tutlani/multi-agent-decision
 2. https://cran.r-project.org/web/packages/EvolutionaryGames/index.html
